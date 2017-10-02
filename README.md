@@ -25,7 +25,7 @@ This season is about discovery the basics use of **git**.
 
 You’ll learn more about how Git work and how to use some interesting commands.
 
-Take a look [here](./resources/bash_cheat_sheet.pdf) for a simple and usefull
+Take a look [here](./resources/got-cheat-sheet.pdf) for a simple and usefull
 **Bash Shell cheat sheet**.
 
 ## <a name='rules'>Rules</a>
