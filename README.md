@@ -67,7 +67,7 @@ Theses awesome people have successfully watch all episodes and made a PR :)
 
 - 😎 [Majdi Toumi](https://github.com/majdi)
 - 😏 [Flavien Medina](https://github.com/flavien94)
-
+- 😎 [M'bark Bouznir](https://github.com/zizmir)
 ### <a name='credits'>Credits</a>
 
 Develop with :heart: by [**Majdi Toumi**](http://majditoumi.com)|[**Mhirba**](http://mhirba.com) in **Paris** for [**CodingBad**]()
